@@ -1,0 +1,20 @@
+{
+  "metrics": {
+    "AUC": 0.8289,
+    "Accuracy": 0.7811,
+    "Precision": 0.7396,
+    "Recall": 0.4581,
+    "F1 Score": 0.5657
+  },
+  "percentage_change": {
+    "AUC": 2.06,
+    "Accuracy": -0.1,
+    "Precision": 16.88,
+    "Recall": -16.86,
+    "F1 Score": -3.97
+  },
+  "dropped_metrics": {
+    "Recall": -16.86
+  },
+  "alert": "\ud83d\udd34 Significant performance drop"
+}

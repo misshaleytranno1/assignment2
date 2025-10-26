@@ -1,0 +1,7 @@
+{
+  "regParam": 0.01,
+  "elasticNetParam": 0.5,
+  "maxIter": 200,
+  "fitIntercept": false,
+  "standardization": true
+}
